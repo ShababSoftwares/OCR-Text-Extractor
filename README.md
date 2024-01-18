@@ -1,6 +1,5 @@
 # OCR-Image Text Extracting
 
-[![Total Downloads](https://poser.pugx.org/shababsoftwares/ocr-text-recognition/downloads)](https://packagist.org/packages/shababsoftwares/ocr-text-recognition)
 [![Downloads](https://poser.pugx.org/ShababSoftwares/OCR-Text-Recognition/d/total.svg)](https://github.com/ShababSoftwares/OCR-Text-Recognition)
 [![License](https://poser.pugx.org/ShababSoftwares/OCR-Text-Recognition/license.svg)](LICENSE.md)
 
