@@ -1,0 +1,21 @@
+{
+    "name": "shababsoftwares/ocr-text-reorganization",
+    "type": "project",
+    "description": "This is a simple php project using Tesseract to extract text from any image.",
+    "authors": [{
+        "name": "Muhammad Arif Shabab",
+        "email": "shabab.softwares@gmail.com"
+    }],
+    "keywords": [
+        "php",
+        "Tesseract",
+        "ocr",
+        "text",
+        "image"
+    ],
+    "license": "MIT",
+    "require": {
+        "php": "^7.2"
+    },
+    "minimum-stability": "stable"
+}
