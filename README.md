@@ -50,7 +50,7 @@ Confirm the Tesseract version installed.
 
 ## Set Path of Image and Output text file.
 
-    shell_exec('"C:\\Program Files (x86)\\Tesseract-OCR\\tesseract" "C:\\xampp\\htdocs\\OCR-Text-Reorganization\\images\\'.$file_name.'" out');
+    shell_exec('"C:\\Program Files (x86)\\Tesseract-OCR\\tesseract" "C:\\xampp\\htdocs\\OCR-Text-Recognition\\images\\'.$file_name.'" out');
     
 ## License
 
