@@ -13,13 +13,13 @@ Installation guide on this link <a href="https://ironsoftware.com/csharp/ocr/blo
 Install Tesseract-OCR 
 Edit Path under Environment System variables 
 add new path
-    '%InstalationPath%/Tesseract-OCR'
+    `%InstalationPath%/Tesseract-OCR`
 like
-    'C:\Program Files (x86)\Tesseract-OCR'
+    `C:\Program Files (x86)\Tesseract-OCR`
     
 Add New Variable under System variables
-Variable Name: 'TESSDATA_PREFIX'
-Variable Value: '%InstalledPath%/Tesseract-OCR' // C:\Program Files (x86)\Tesseract-OCR\
+Variable Name: `TESSDATA_PREFIX`
+Variable Value: `%InstalledPath%/Tesseract-OCR` // C:\Program Files (x86)\Tesseract-OCR\
 
 ### On Linux / ubuntu
 
