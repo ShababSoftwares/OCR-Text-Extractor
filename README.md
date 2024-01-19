@@ -1,7 +1,7 @@
 # OCR-Image Text Extracting
 
-[![Downloads](https://poser.pugx.org/ShababSoftwares/OCR-Text-Reorganization/d/total.svg)](https://github.com/ShababSoftwares/OCR-Text-Reorganization)
-[![License](https://poser.pugx.org/ShababSoftwares/OCR-Text-Recognition/license.svg)](LICENSE.md)
+[![Downloads](https://poser.pugx.org/ShababSoftwares/OCR-Text-Extractor/d/total.svg)](https://github.com/ShababSoftwares/OCR-Text-Extractor)
+[![License](https://poser.pugx.org/ShababSoftwares/OCR-Text-Extractor/license.svg)](LICENSE.md)
 
 This is simple PHP Code using Tesseract-OCR to read and extract Text in any Image.
 
@@ -10,7 +10,7 @@ This is simple PHP Code using Tesseract-OCR to read and extract Text in any Imag
 First, install the package through Composer.
 
 ```bash
-composer create-project shababsoftwares/ocr-text-recognition
+composer create-project shababsoftwares/ocr-text-extractor
 ```
 
 ## How to Install Tesseract-OCR

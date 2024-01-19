@@ -1,5 +1,5 @@
 {
-    "name": "shababsoftwares/ocr-text-recognition",
+    "name": "shababsoftwares/ocr-text-extractor",
     "type": "project",
     "description": "This is a simple php project using Tesseract to extract text from any image.",
     "authors": [{
