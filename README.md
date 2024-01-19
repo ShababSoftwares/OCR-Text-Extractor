@@ -5,6 +5,14 @@
 
 This is simple PHP Code using Tesseract-OCR to read and extract Text in any Image.
 
+## Installation
+
+First, install the package through Composer.
+
+```bash
+composer create-project shababsoftwares/ocr-text-recognition
+```
+
 ## How to Install Tesseract-OCR
 
 You need to have Tesseract-OCR installed and set Environment.
